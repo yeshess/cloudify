@@ -62,7 +62,7 @@
 		<dependency>
 			<groupId>org.apache.ant</groupId>
 			<artifactId>ant-jsch</artifactId>
-			<version>1.8.3</version>
+			<version>1.10.9</version>
 		</dependency>
 		<dependency>
 			<groupId>com.googlecode.java-ipv6</groupId>
@@ -250,6 +250,6 @@
 		</plugins>
 	</build>
 	<properties>
-		<jcloudsVersion>1.6.2-incubating</jcloudsVersion>
+		<jcloudsVersion>2.0.2</jcloudsVersion>
 	</properties>
 </project>

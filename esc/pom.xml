@@ -181,7 +181,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk</artifactId>
-			<version>1.4.7</version>
+			<version>1.8.12</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
@@ -250,6 +250,6 @@
 		</plugins>
 	</build>
 	<properties>
-		<jcloudsVersion>1.6.2-incubating</jcloudsVersion>
+		<jcloudsVersion>1.9.0</jcloudsVersion>
 	</properties>
 </project>

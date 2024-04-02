@@ -31,7 +31,7 @@
 		<cloudifyVersion>${project.version}</cloudifyVersion>
 		<sigarVersion>1.6.5</sigarVersion>
 		<sigarDistributionVersion>1.6.5.132</sigarDistributionVersion>
-		<groovyVersion>1.8.6</groovyVersion>
+		<groovyVersion>2.4.7</groovyVersion>
 		<asmVersion>3.2</asmVersion>
 	</properties>
 

@@ -250,6 +250,6 @@
 		</plugins>
 	</build>
 	<properties>
-		<jcloudsVersion>1.6.2-incubating</jcloudsVersion>
+		<jcloudsVersion>1.7.1</jcloudsVersion>
 	</properties>
 </project>
